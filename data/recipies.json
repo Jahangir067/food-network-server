@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "img": "https://i.ibb.co/L8hdSSt/person1.png",
+      "name": "Poppy Francis",
+      "experience_time": "1 year",
+      "recipes_numbers": "3",
+      "likes": "894"
+    },
+    {
+      "id": "2",
+      "img": "https://i.ibb.co/2kXYnmg/person2.png",
+      "name": "Ethan Marshall",
+      "experience_time": "2 years",
+      "recipes_numbers": "5",
+      "likes": "987"
+    },
+    {
+      "id": "3",
+      "img": "https://i.ibb.co/M6PtJkK/person3.png",
+      "name": "Sophie Clarke",
+      "experience_time": "3 years",
+      "recipes_numbers": 7,
+      "likes": "389"
+    },
+    {
+      "id": "4",
+      "img": "https://i.ibb.co/pLMNN4n/person4.png",
+      "name": "Himple Raidu",
+      "experience_time": "4 years",
+      "recipes_numbers": "2",
+      "likes": "1200"
+    },
+    {
+      "id": "5",
+      "img": "https://i.ibb.co/WfTd70Y/person5.png",
+      "name": "Famsul Delay",
+      "experience_time": "5 years",
+      "recipes_numbers": "4",
+      "likes": "128"
+    },
+  {
+      "id": "6",
+      "img": "https://i.ibb.co/SfD1LzF/person6.png",
+      "name": "Amdullah Falshie",
+      "experience_time": "6 years",
+      "recipes_numbers": "3",
+      "likes": "723"
+    }
+  ]
