@@ -7,13 +7,13 @@
       "recipes_numbers": "3",
       "likes": "894",
       "description": "Recipes can be associated with different cuisines from around the world, such as Italian, Chinese, or Indian cuisine. The ingredients, flavors, and cooking techniques used in each cuisine can vary widely.",
-      "recipe-thumble1": "https://i.ibb.co/pZ7kY83/chicken-1.jpg",
-      "recipe-thumble2": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
-      "recipe-thumble3": "https://i.ibb.co/vwCL4Zk/chicken-3.jpg",
+      "thumble1": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
+      "thumble2": "https://i.ibb.co/6RdxPRJ/food-2.jpg",
+      "thumble3": "https://i.ibb.co/2KwWsPD/food-3.jpg",
       "rating": "4.5",
-      "recipe-title1": "Quick Chicken Piccata",
-      "recipe-title2": "Kung Pao Chicken",
-      "recipe-title3": "Jamie's Baked Brie"
+      "title1": "Quick Chicken Piccata",
+      "title2": "Kung Pao Chicken",
+      "title3": "Jamie's Baked Brie"
     },
     {
       "id": "2",
@@ -23,13 +23,13 @@
       "recipes_numbers": "5",
       "likes": "987",
       "description": "Recipes can be categorized by the type of meal they are intended for, such as breakfast, lunch, or dinner. They can also be classified as snacks, appetizers, or desserts.",
-      "recipe-thumble1": "https://i.ibb.co/pZ7kY83/chicken-1.jpg",
-      "recipe-thumble2": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
-      "recipe-thumble3": "https://i.ibb.co/vwCL4Zk/chicken-3.jpg",
+      "thumble1": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
+      "thumble2": "https://i.ibb.co/6RdxPRJ/food-2.jpg",
+      "thumble3": "https://i.ibb.co/2KwWsPD/food-3.jpg",
       "rating": "4.5",
-      "recipe-title1": "Quick Chicken Piccata",
-      "recipe-title2": "Kung Pao Chicken",
-      "recipe-title3": "Jamie's Baked Brie"
+      "title1": "Quick Chicken Piccata",
+      "title2": "Kung Pao Chicken",
+      "title3": "Jamie's Baked Brie"
     },
     {
       "id": "3",
@@ -39,13 +39,13 @@
       "recipes_numbers": 7,
       "likes": "389",
       "description": "Recipes can be tailored to suit different dietary preferences, such as vegetarian, vegan, gluten-free, or paleo diets. This can help people with specific dietary needs find suitable recipes.",
-      "recipe-thumble1": "https://i.ibb.co/pZ7kY83/chicken-1.jpg",
-      "recipe-thumble2": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
-      "recipe-thumble3": "https://i.ibb.co/vwCL4Zk/chicken-3.jpg",
+      "thumble1": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
+      "thumble2": "https://i.ibb.co/6RdxPRJ/food-2.jpg",
+      "thumble3": "https://i.ibb.co/2KwWsPD/food-3.jpg",
       "rating": "4.5",
-      "recipe-title1": "Quick Chicken Piccata",
-      "recipe-title2": "Kung Pao Chicken",
-      "recipe-title3": "Jamie's Baked Brie"
+      "title1": "Quick Chicken Piccata",
+      "title2": "Kung Pao Chicken",
+      "title3": "Jamie's Baked Brie"
     },
     {
       "id": "4",
@@ -55,13 +55,13 @@
       "recipes_numbers": "2",
       "likes": "1200",
       "description": "Recipes can be created by individuals or chefs, or they can be sourced from cookbooks, websites, or social media platforms. The source of a recipe can affect its reliability, complexity, and authenticity.",
-      "recipe-thumble1": "https://i.ibb.co/pZ7kY83/chicken-1.jpg",
-      "recipe-thumble2": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
-      "recipe-thumble3": "https://i.ibb.co/vwCL4Zk/chicken-3.jpg",
+      "thumble1": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
+      "thumble2": "https://i.ibb.co/6RdxPRJ/food-2.jpg",
+      "thumble3": "https://i.ibb.co/2KwWsPD/food-3.jpg",
       "rating": "4.5",
-      "recipe-title1": "Quick Chicken Piccata",
-      "recipe-title2": "Kung Pao Chicken",
-      "recipe-title3": "Jamie's Baked Brie"
+      "title1": "Quick Chicken Piccata",
+      "title2": "Kung Pao Chicken",
+      "title3": "Jamie's Baked Brie"
     },
     {
       "id": "5",
@@ -71,13 +71,13 @@
       "recipes_numbers": "4",
       "likes": "128",
       "description": "Some recipes are associated with specific seasons or times of the year, such as pumpkin pie in the fall or grilled burgers in the summer. This can be due to ingredient availability, cultural traditions, or seasonal preferences.",
-      "recipe-thumble1": "https://i.ibb.co/pZ7kY83/chicken-1.jpg",
-      "recipe-thumble2": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
-      "recipe-thumble3": "https://i.ibb.co/vwCL4Zk/chicken-3.jpg",
+      "thumble1": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
+      "thumble2": "https://i.ibb.co/6RdxPRJ/food-2.jpg",
+      "thumble3": "https://i.ibb.co/2KwWsPD/food-3.jpg",
       "rating": "4.5",
-      "recipe-title1": "Quick Chicken Piccata",
-      "recipe-title2": "Kung Pao Chicken",
-      "recipe-title3": "Jamie's Baked Brie"
+      "title1": "Quick Chicken Piccata",
+      "title2": "Kung Pao Chicken",
+      "title3": "Jamie's Baked Brie"
     },
   {
       "id": "6",
@@ -87,12 +87,12 @@
       "recipes_numbers": "3",
       "likes": "723",
       "description": " Recipes can also include information about how the finished dish should be presented or served, such as garnishes, plating techniques, or serving suggestions. This can enhance the visual appeal and overall experience of the dish.",
-      "recipe-thumble1": "https://i.ibb.co/pZ7kY83/chicken-1.jpg",
-      "recipe-thumble2": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
-      "recipe-thumble3": "https://i.ibb.co/vwCL4Zk/chicken-3.jpg",
+      "thumble1": "https://i.ibb.co/2SSSZPw/chicken-2.jpg",
+      "thumble2": "https://i.ibb.co/6RdxPRJ/food-2.jpg",
+      "thumble3": "https://i.ibb.co/2KwWsPD/food-3.jpg",
       "rating": "4.5",
-      "recipe-title1": "Quick Chicken Piccata",
-      "recipe-title2": "Kung Pao Chicken",
-      "recipe-title3": "Jamie's Baked Brie"
+      "title1": "Quick Chicken Piccata",
+      "title2": "Kung Pao Chicken",
+      "title3": "Jamie's Baked Brie"
     }
   ]
