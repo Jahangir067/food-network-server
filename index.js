@@ -17,7 +17,6 @@ app.get('/recipies', (req, res) =>{
 
 app.get('/recipies/:id', (req, res) =>{
     const id = req.params.id;
-    console.log(id);
     if(id == 0){
         res.send(recipies)
     }
