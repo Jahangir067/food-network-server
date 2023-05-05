@@ -8,7 +8,7 @@ const recipies = require('./data/recipies.json')
 app.get('/', (req, res) =>{
     res.send('The Food Network Will Coming...');
 })
-
+// cors npm instal
 app.use(cors())
 
 app.get('/recipies', (req, res) =>{
